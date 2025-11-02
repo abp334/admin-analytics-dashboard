@@ -4,7 +4,7 @@ This is a comprehensive Admin Analytics Dashboard built as a technical assignmen
 
 ## 🚀 Demo Link
 
-[**Insert Your Vercel URL Here**]
+[https://admin-analytics-dashboard-ruddy.vercel.app/login]
 
 ## 🔑 Demo Credentials
 
